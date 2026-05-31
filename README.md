@@ -1,5 +1,5 @@
-#Sistema de Préstamos Bibliotecarios
-#Descripción
+## Sistema de Préstamos Bibliotecarios
+# Descripción
 Este proyecto implementa un sistema de gestión de préstamos bibliotecarios desarrollado en PHP con base de datos en SQL. Permite administrar usuarios, libros y préstamos de manera eficiente, ofreciendo una interfaz sencilla para la consulta y control de registros.
 
 El sistema cuenta con un acceso especial para administradores. Por defecto, se puede ingresar con el usuario daniel y la contraseña 1234, lo que permite visualizar y utilizar todas las funciones disponibles.
@@ -8,7 +8,7 @@ El sistema cuenta con un acceso especial para administradores. Por defecto, se p
 Puedes ver el video completo en YouTube aquí:  
 [Ver en YouTube](https://www.youtube.com/watch?v=6uhPbjl0T7s)
 
-#Características
+# Características
 Desarrollo en PHP con conexión a base de datos SQL.
 
 Gestión de usuarios, libros y préstamos.
@@ -24,7 +24,7 @@ Ingresa con las credenciales de administrador para ver las funciones habilitadas
 Usuario: daniel
 Contraseña: 1234
 
-#Tecnologías utilizadas
+# Tecnologías utilizadas
 Lenguaje: PHP
 
 Base de datos: SQL
