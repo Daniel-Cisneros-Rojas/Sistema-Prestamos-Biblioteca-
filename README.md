@@ -6,7 +6,8 @@ El sistema cuenta con un acceso especial para administradores. Por defecto, se p
 
 ## Video explicativo
 Puedes ver el video completo en YouTube aquí:  
-[Ver en YouTube](https://www.youtube.com/watch?v=6uhPbjl0T7s)
+[![Video en YouTube](https://img.youtube.com/vi/6uhPbjl0T7s/0.jpg)](https://www.youtube.com/watch?v=6uhPbjl0T7s)
+
 
 # Características
 Desarrollo en PHP con conexión a base de datos SQL.
