@@ -1,4 +1,4 @@
-##Sistema de Préstamos Bibliotecarios
+#Sistema de Préstamos Bibliotecarios
 #Descripción
 Este proyecto implementa un sistema de gestión de préstamos bibliotecarios desarrollado en PHP con base de datos en SQL. Permite administrar usuarios, libros y préstamos de manera eficiente, ofreciendo una interfaz sencilla para la consulta y control de registros.
 
